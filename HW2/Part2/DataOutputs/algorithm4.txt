@@ -1,0 +1,634 @@
+Picked up _JAVA_OPTIONS: -Xmx7000m
+Please enter the algorithms that you want to run
+Example input: 1 2 3 4 5
+4
+How many array you want to create?
+10
+What should be the size of them?
+Example input 8000 16000 32000
+8000 16000 32000 64000 128000 256000 512000 1024000 2048000 4096000 8192000 16384000 32768000
+Randomly Generated Input Results:
+----------
+Sort Algorithm 4, Time: 12 milisecond
+Sort Algorithm 4, Time: 5 milisecond
+Sort Algorithm 4, Time: 5 milisecond
+Sort Algorithm 4, Time: 5 milisecond
+Sort Algorithm 4, Time: 5 milisecond
+Sort Algorithm 4, Time: 5 milisecond
+Sort Algorithm 4, Time: 4 milisecond
+Sort Algorithm 4, Time: 5 milisecond
+Sort Algorithm 4, Time: 12 milisecond
+Sort Algorithm 4, Time: 12 milisecond
+Size: 8000, Average: 7.0 milisecond
+
+##########
+
+Ordered Input Results:
+----------
+Sort Algorithm 4, Time: 9 milisecond
+Sort Algorithm 4, Time: 11 milisecond
+Sort Algorithm 4, Time: 11 milisecond
+Sort Algorithm 4, Time: 11 milisecond
+Sort Algorithm 4, Time: 10 milisecond
+Sort Algorithm 4, Time: 10 milisecond
+Sort Algorithm 4, Time: 10 milisecond
+Sort Algorithm 4, Time: 6 milisecond
+Sort Algorithm 4, Time: 2 milisecond
+Sort Algorithm 4, Time: 2 milisecond
+Size: 8000, Average: 8.0 milisecond
+
+##########
+
+Reverse Ordered Input Results:
+----------
+Sort Algorithm 4, Time: 1 milisecond
+Sort Algorithm 4, Time: 1 milisecond
+Sort Algorithm 4, Time: 2 milisecond
+Sort Algorithm 4, Time: 1 milisecond
+Sort Algorithm 4, Time: 2 milisecond
+Sort Algorithm 4, Time: 1 milisecond
+Sort Algorithm 4, Time: 2 milisecond
+Sort Algorithm 4, Time: 1 milisecond
+Sort Algorithm 4, Time: 2 milisecond
+Sort Algorithm 4, Time: 2 milisecond
+Size: 8000, Average: 1.0 milisecond
+
+##########
+
+Randomly Generated Input Results:
+----------
+Sort Algorithm 4, Time: 5 milisecond
+Sort Algorithm 4, Time: 5 milisecond
+Sort Algorithm 4, Time: 5 milisecond
+Sort Algorithm 4, Time: 5 milisecond
+Sort Algorithm 4, Time: 4 milisecond
+Sort Algorithm 4, Time: 5 milisecond
+Sort Algorithm 4, Time: 6 milisecond
+Sort Algorithm 4, Time: 4 milisecond
+Sort Algorithm 4, Time: 6 milisecond
+Sort Algorithm 4, Time: 5 milisecond
+Size: 16000, Average: 5.0 milisecond
+
+##########
+
+Ordered Input Results:
+----------
+Sort Algorithm 4, Time: 3 milisecond
+Sort Algorithm 4, Time: 2 milisecond
+Sort Algorithm 4, Time: 3 milisecond
+Sort Algorithm 4, Time: 3 milisecond
+Sort Algorithm 4, Time: 4 milisecond
+Sort Algorithm 4, Time: 3 milisecond
+Sort Algorithm 4, Time: 3 milisecond
+Sort Algorithm 4, Time: 3 milisecond
+Sort Algorithm 4, Time: 3 milisecond
+Sort Algorithm 4, Time: 3 milisecond
+Size: 16000, Average: 3.0 milisecond
+
+##########
+
+Reverse Ordered Input Results:
+----------
+Sort Algorithm 4, Time: 3 milisecond
+Sort Algorithm 4, Time: 3 milisecond
+Sort Algorithm 4, Time: 3 milisecond
+Sort Algorithm 4, Time: 2 milisecond
+Sort Algorithm 4, Time: 3 milisecond
+Sort Algorithm 4, Time: 3 milisecond
+Sort Algorithm 4, Time: 3 milisecond
+Sort Algorithm 4, Time: 2 milisecond
+Sort Algorithm 4, Time: 2 milisecond
+Sort Algorithm 4, Time: 6 milisecond
+Size: 16000, Average: 3.0 milisecond
+
+##########
+
+Randomly Generated Input Results:
+----------
+Sort Algorithm 4, Time: 10 milisecond
+Sort Algorithm 4, Time: 10 milisecond
+Sort Algorithm 4, Time: 10 milisecond
+Sort Algorithm 4, Time: 10 milisecond
+Sort Algorithm 4, Time: 10 milisecond
+Sort Algorithm 4, Time: 10 milisecond
+Sort Algorithm 4, Time: 9 milisecond
+Sort Algorithm 4, Time: 10 milisecond
+Sort Algorithm 4, Time: 10 milisecond
+Sort Algorithm 4, Time: 10 milisecond
+Size: 32000, Average: 9.0 milisecond
+
+##########
+
+Ordered Input Results:
+----------
+Sort Algorithm 4, Time: 5 milisecond
+Sort Algorithm 4, Time: 6 milisecond
+Sort Algorithm 4, Time: 5 milisecond
+Sort Algorithm 4, Time: 5 milisecond
+Sort Algorithm 4, Time: 6 milisecond
+Sort Algorithm 4, Time: 5 milisecond
+Sort Algorithm 4, Time: 5 milisecond
+Sort Algorithm 4, Time: 5 milisecond
+Sort Algorithm 4, Time: 5 milisecond
+Sort Algorithm 4, Time: 6 milisecond
+Size: 32000, Average: 5.0 milisecond
+
+##########
+
+Reverse Ordered Input Results:
+----------
+Sort Algorithm 4, Time: 5 milisecond
+Sort Algorithm 4, Time: 6 milisecond
+Sort Algorithm 4, Time: 6 milisecond
+Sort Algorithm 4, Time: 6 milisecond
+Sort Algorithm 4, Time: 6 milisecond
+Sort Algorithm 4, Time: 6 milisecond
+Sort Algorithm 4, Time: 6 milisecond
+Sort Algorithm 4, Time: 6 milisecond
+Sort Algorithm 4, Time: 5 milisecond
+Sort Algorithm 4, Time: 6 milisecond
+Size: 32000, Average: 5.0 milisecond
+
+##########
+
+Randomly Generated Input Results:
+----------
+Sort Algorithm 4, Time: 23 milisecond
+Sort Algorithm 4, Time: 26 milisecond
+Sort Algorithm 4, Time: 23 milisecond
+Sort Algorithm 4, Time: 47 milisecond
+Sort Algorithm 4, Time: 46 milisecond
+Sort Algorithm 4, Time: 22 milisecond
+Sort Algorithm 4, Time: 23 milisecond
+Sort Algorithm 4, Time: 22 milisecond
+Sort Algorithm 4, Time: 22 milisecond
+Sort Algorithm 4, Time: 22 milisecond
+Size: 64000, Average: 27.0 milisecond
+
+##########
+
+Ordered Input Results:
+----------
+Sort Algorithm 4, Time: 12 milisecond
+Sort Algorithm 4, Time: 13 milisecond
+Sort Algorithm 4, Time: 12 milisecond
+Sort Algorithm 4, Time: 13 milisecond
+Sort Algorithm 4, Time: 12 milisecond
+Sort Algorithm 4, Time: 12 milisecond
+Sort Algorithm 4, Time: 14 milisecond
+Sort Algorithm 4, Time: 12 milisecond
+Sort Algorithm 4, Time: 12 milisecond
+Sort Algorithm 4, Time: 12 milisecond
+Size: 64000, Average: 12.0 milisecond
+
+##########
+
+Reverse Ordered Input Results:
+----------
+Sort Algorithm 4, Time: 12 milisecond
+Sort Algorithm 4, Time: 12 milisecond
+Sort Algorithm 4, Time: 12 milisecond
+Sort Algorithm 4, Time: 13 milisecond
+Sort Algorithm 4, Time: 12 milisecond
+Sort Algorithm 4, Time: 13 milisecond
+Sort Algorithm 4, Time: 13 milisecond
+Sort Algorithm 4, Time: 13 milisecond
+Sort Algorithm 4, Time: 13 milisecond
+Sort Algorithm 4, Time: 13 milisecond
+Size: 64000, Average: 12.0 milisecond
+
+##########
+
+Randomly Generated Input Results:
+----------
+Sort Algorithm 4, Time: 59 milisecond
+Sort Algorithm 4, Time: 46 milisecond
+Sort Algorithm 4, Time: 48 milisecond
+Sort Algorithm 4, Time: 47 milisecond
+Sort Algorithm 4, Time: 48 milisecond
+Sort Algorithm 4, Time: 47 milisecond
+Sort Algorithm 4, Time: 47 milisecond
+Sort Algorithm 4, Time: 47 milisecond
+Sort Algorithm 4, Time: 48 milisecond
+Sort Algorithm 4, Time: 47 milisecond
+Size: 128000, Average: 48.0 milisecond
+
+##########
+
+Ordered Input Results:
+----------
+Sort Algorithm 4, Time: 27 milisecond
+Sort Algorithm 4, Time: 26 milisecond
+Sort Algorithm 4, Time: 27 milisecond
+Sort Algorithm 4, Time: 27 milisecond
+Sort Algorithm 4, Time: 26 milisecond
+Sort Algorithm 4, Time: 30 milisecond
+Sort Algorithm 4, Time: 27 milisecond
+Sort Algorithm 4, Time: 27 milisecond
+Sort Algorithm 4, Time: 26 milisecond
+Sort Algorithm 4, Time: 26 milisecond
+Size: 128000, Average: 26.0 milisecond
+
+##########
+
+Reverse Ordered Input Results:
+----------
+Sort Algorithm 4, Time: 26 milisecond
+Sort Algorithm 4, Time: 26 milisecond
+Sort Algorithm 4, Time: 27 milisecond
+Sort Algorithm 4, Time: 26 milisecond
+Sort Algorithm 4, Time: 27 milisecond
+Sort Algorithm 4, Time: 26 milisecond
+Sort Algorithm 4, Time: 26 milisecond
+Sort Algorithm 4, Time: 26 milisecond
+Sort Algorithm 4, Time: 26 milisecond
+Sort Algorithm 4, Time: 26 milisecond
+Size: 128000, Average: 26.0 milisecond
+
+##########
+
+Randomly Generated Input Results:
+----------
+Sort Algorithm 4, Time: 154 milisecond
+Sort Algorithm 4, Time: 152 milisecond
+Sort Algorithm 4, Time: 153 milisecond
+Sort Algorithm 4, Time: 155 milisecond
+Sort Algorithm 4, Time: 211 milisecond
+Sort Algorithm 4, Time: 154 milisecond
+Sort Algorithm 4, Time: 153 milisecond
+Sort Algorithm 4, Time: 153 milisecond
+Sort Algorithm 4, Time: 206 milisecond
+Sort Algorithm 4, Time: 153 milisecond
+Size: 256000, Average: 164.0 milisecond
+
+##########
+
+Ordered Input Results:
+----------
+Sort Algorithm 4, Time: 156 milisecond
+Sort Algorithm 4, Time: 132 milisecond
+Sort Algorithm 4, Time: 129 milisecond
+Sort Algorithm 4, Time: 165 milisecond
+Sort Algorithm 4, Time: 131 milisecond
+Sort Algorithm 4, Time: 129 milisecond
+Sort Algorithm 4, Time: 152 milisecond
+Sort Algorithm 4, Time: 132 milisecond
+Sort Algorithm 4, Time: 133 milisecond
+Sort Algorithm 4, Time: 132 milisecond
+Size: 256000, Average: 139.0 milisecond
+
+##########
+
+Reverse Ordered Input Results:
+----------
+Sort Algorithm 4, Time: 132 milisecond
+Sort Algorithm 4, Time: 131 milisecond
+Sort Algorithm 4, Time: 132 milisecond
+Sort Algorithm 4, Time: 239 milisecond
+Sort Algorithm 4, Time: 129 milisecond
+Sort Algorithm 4, Time: 130 milisecond
+Sort Algorithm 4, Time: 129 milisecond
+Sort Algorithm 4, Time: 129 milisecond
+Sort Algorithm 4, Time: 197 milisecond
+Sort Algorithm 4, Time: 130 milisecond
+Size: 256000, Average: 147.0 milisecond
+
+##########
+
+Randomly Generated Input Results:
+----------
+Sort Algorithm 4, Time: 363 milisecond
+Sort Algorithm 4, Time: 362 milisecond
+Sort Algorithm 4, Time: 336 milisecond
+Sort Algorithm 4, Time: 332 milisecond
+Sort Algorithm 4, Time: 333 milisecond
+Sort Algorithm 4, Time: 431 milisecond
+Sort Algorithm 4, Time: 329 milisecond
+Sort Algorithm 4, Time: 378 milisecond
+Sort Algorithm 4, Time: 339 milisecond
+Sort Algorithm 4, Time: 328 milisecond
+Size: 512000, Average: 353.0 milisecond
+
+##########
+
+Ordered Input Results:
+----------
+Sort Algorithm 4, Time: 333 milisecond
+Sort Algorithm 4, Time: 275 milisecond
+Sort Algorithm 4, Time: 274 milisecond
+Sort Algorithm 4, Time: 274 milisecond
+Sort Algorithm 4, Time: 275 milisecond
+Sort Algorithm 4, Time: 276 milisecond
+Sort Algorithm 4, Time: 356 milisecond
+Sort Algorithm 4, Time: 271 milisecond
+Sort Algorithm 4, Time: 271 milisecond
+Sort Algorithm 4, Time: 272 milisecond
+Size: 512000, Average: 287.0 milisecond
+
+##########
+
+Reverse Ordered Input Results:
+----------
+Sort Algorithm 4, Time: 272 milisecond
+Sort Algorithm 4, Time: 351 milisecond
+Sort Algorithm 4, Time: 275 milisecond
+Sort Algorithm 4, Time: 273 milisecond
+Sort Algorithm 4, Time: 272 milisecond
+Sort Algorithm 4, Time: 271 milisecond
+Sort Algorithm 4, Time: 271 milisecond
+Sort Algorithm 4, Time: 272 milisecond
+Sort Algorithm 4, Time: 272 milisecond
+Sort Algorithm 4, Time: 352 milisecond
+Size: 512000, Average: 288.0 milisecond
+
+##########
+
+Randomly Generated Input Results:
+----------
+Sort Algorithm 4, Time: 787 milisecond
+Sort Algorithm 4, Time: 795 milisecond
+Sort Algorithm 4, Time: 754 milisecond
+Sort Algorithm 4, Time: 796 milisecond
+Sort Algorithm 4, Time: 803 milisecond
+Sort Algorithm 4, Time: 728 milisecond
+Sort Algorithm 4, Time: 784 milisecond
+Sort Algorithm 4, Time: 803 milisecond
+Sort Algorithm 4, Time: 730 milisecond
+Sort Algorithm 4, Time: 729 milisecond
+Size: 1024000, Average: 770.0 milisecond
+
+##########
+
+Ordered Input Results:
+----------
+Sort Algorithm 4, Time: 695 milisecond
+Sort Algorithm 4, Time: 622 milisecond
+Sort Algorithm 4, Time: 571 milisecond
+Sort Algorithm 4, Time: 574 milisecond
+Sort Algorithm 4, Time: 577 milisecond
+Sort Algorithm 4, Time: 646 milisecond
+Sort Algorithm 4, Time: 578 milisecond
+Sort Algorithm 4, Time: 579 milisecond
+Sort Algorithm 4, Time: 577 milisecond
+Sort Algorithm 4, Time: 678 milisecond
+Size: 1024000, Average: 609.0 milisecond
+
+##########
+
+Reverse Ordered Input Results:
+----------
+Sort Algorithm 4, Time: 572 milisecond
+Sort Algorithm 4, Time: 577 milisecond
+Sort Algorithm 4, Time: 582 milisecond
+Sort Algorithm 4, Time: 582 milisecond
+Sort Algorithm 4, Time: 734 milisecond
+Sort Algorithm 4, Time: 578 milisecond
+Sort Algorithm 4, Time: 576 milisecond
+Sort Algorithm 4, Time: 573 milisecond
+Sort Algorithm 4, Time: 571 milisecond
+Sort Algorithm 4, Time: 571 milisecond
+Size: 1024000, Average: 591.0 milisecond
+
+##########
+
+Randomly Generated Input Results:
+----------
+Sort Algorithm 4, Time: 1697 milisecond
+Sort Algorithm 4, Time: 1595 milisecond
+Sort Algorithm 4, Time: 1749 milisecond
+Sort Algorithm 4, Time: 1591 milisecond
+Sort Algorithm 4, Time: 1754 milisecond
+Sort Algorithm 4, Time: 1735 milisecond
+Sort Algorithm 4, Time: 1595 milisecond
+Sort Algorithm 4, Time: 1835 milisecond
+Sort Algorithm 4, Time: 1599 milisecond
+Sort Algorithm 4, Time: 1739 milisecond
+Size: 2048000, Average: 1688.0 milisecond
+
+##########
+
+Ordered Input Results:
+----------
+Sort Algorithm 4, Time: 1209 milisecond
+Sort Algorithm 4, Time: 1209 milisecond
+Sort Algorithm 4, Time: 1332 milisecond
+Sort Algorithm 4, Time: 1195 milisecond
+Sort Algorithm 4, Time: 1300 milisecond
+Sort Algorithm 4, Time: 1204 milisecond
+Sort Algorithm 4, Time: 1205 milisecond
+Sort Algorithm 4, Time: 1304 milisecond
+Sort Algorithm 4, Time: 1201 milisecond
+Sort Algorithm 4, Time: 1307 milisecond
+Size: 2048000, Average: 1246.0 milisecond
+
+##########
+
+Reverse Ordered Input Results:
+----------
+Sort Algorithm 4, Time: 1216 milisecond
+Sort Algorithm 4, Time: 1215 milisecond
+Sort Algorithm 4, Time: 1321 milisecond
+Sort Algorithm 4, Time: 1206 milisecond
+Sort Algorithm 4, Time: 1312 milisecond
+Sort Algorithm 4, Time: 1194 milisecond
+Sort Algorithm 4, Time: 1194 milisecond
+Sort Algorithm 4, Time: 1362 milisecond
+Sort Algorithm 4, Time: 1206 milisecond
+Sort Algorithm 4, Time: 1196 milisecond
+Size: 2048000, Average: 1242.0 milisecond
+
+##########
+
+Randomly Generated Input Results:
+----------
+Sort Algorithm 4, Time: 3780 milisecond
+Sort Algorithm 4, Time: 3758 milisecond
+Sort Algorithm 4, Time: 3771 milisecond
+Sort Algorithm 4, Time: 3652 milisecond
+Sort Algorithm 4, Time: 3849 milisecond
+Sort Algorithm 4, Time: 3868 milisecond
+Sort Algorithm 4, Time: 3600 milisecond
+Sort Algorithm 4, Time: 3891 milisecond
+Sort Algorithm 4, Time: 3843 milisecond
+Sort Algorithm 4, Time: 3940 milisecond
+Size: 4096000, Average: 3795.0 milisecond
+
+##########
+
+Ordered Input Results:
+----------
+Sort Algorithm 4, Time: 2531 milisecond
+Sort Algorithm 4, Time: 2750 milisecond
+Sort Algorithm 4, Time: 2523 milisecond
+Sort Algorithm 4, Time: 2637 milisecond
+Sort Algorithm 4, Time: 2636 milisecond
+Sort Algorithm 4, Time: 2589 milisecond
+Sort Algorithm 4, Time: 2620 milisecond
+Sort Algorithm 4, Time: 2622 milisecond
+Sort Algorithm 4, Time: 2661 milisecond
+Sort Algorithm 4, Time: 2515 milisecond
+Size: 4096000, Average: 2608.0 milisecond
+
+##########
+
+Reverse Ordered Input Results:
+----------
+Sort Algorithm 4, Time: 2683 milisecond
+Sort Algorithm 4, Time: 2523 milisecond
+Sort Algorithm 4, Time: 2669 milisecond
+Sort Algorithm 4, Time: 2648 milisecond
+Sort Algorithm 4, Time: 2514 milisecond
+Sort Algorithm 4, Time: 2753 milisecond
+Sort Algorithm 4, Time: 2536 milisecond
+Sort Algorithm 4, Time: 2534 milisecond
+Sort Algorithm 4, Time: 2725 milisecond
+Sort Algorithm 4, Time: 2519 milisecond
+Size: 4096000, Average: 2610.0 milisecond
+
+##########
+
+Randomly Generated Input Results:
+----------
+Sort Algorithm 4, Time: 8137 milisecond
+Sort Algorithm 4, Time: 8186 milisecond
+Sort Algorithm 4, Time: 7903 milisecond
+Sort Algorithm 4, Time: 8338 milisecond
+Sort Algorithm 4, Time: 8188 milisecond
+Sort Algorithm 4, Time: 7768 milisecond
+Sort Algorithm 4, Time: 8599 milisecond
+Sort Algorithm 4, Time: 7737 milisecond
+Sort Algorithm 4, Time: 8424 milisecond
+Sort Algorithm 4, Time: 8219 milisecond
+Size: 8192000, Average: 8149.0 milisecond
+
+##########
+
+Ordered Input Results:
+----------
+Sort Algorithm 4, Time: 5593 milisecond
+Sort Algorithm 4, Time: 5242 milisecond
+Sort Algorithm 4, Time: 5475 milisecond
+Sort Algorithm 4, Time: 5442 milisecond
+Sort Algorithm 4, Time: 5480 milisecond
+Sort Algorithm 4, Time: 5246 milisecond
+Sort Algorithm 4, Time: 5453 milisecond
+Sort Algorithm 4, Time: 5442 milisecond
+Sort Algorithm 4, Time: 5450 milisecond
+Sort Algorithm 4, Time: 5238 milisecond
+Size: 8192000, Average: 5406.0 milisecond
+
+##########
+
+Reverse Ordered Input Results:
+----------
+Sort Algorithm 4, Time: 5431 milisecond
+Sort Algorithm 4, Time: 5457 milisecond
+Sort Algorithm 4, Time: 5432 milisecond
+Sort Algorithm 4, Time: 5224 milisecond
+Sort Algorithm 4, Time: 5444 milisecond
+Sort Algorithm 4, Time: 5441 milisecond
+Sort Algorithm 4, Time: 5443 milisecond
+Sort Algorithm 4, Time: 5227 milisecond
+Sort Algorithm 4, Time: 5436 milisecond
+Sort Algorithm 4, Time: 5434 milisecond
+Size: 8192000, Average: 5396.0 milisecond
+
+##########
+
+Randomly Generated Input Results:
+----------
+Sort Algorithm 4, Time: 17974 milisecond
+Sort Algorithm 4, Time: 17785 milisecond
+Sort Algorithm 4, Time: 17765 milisecond
+Sort Algorithm 4, Time: 17668 milisecond
+Sort Algorithm 4, Time: 17976 milisecond
+Sort Algorithm 4, Time: 17419 milisecond
+Sort Algorithm 4, Time: 18054 milisecond
+Sort Algorithm 4, Time: 17399 milisecond
+Sort Algorithm 4, Time: 17973 milisecond
+Sort Algorithm 4, Time: 17424 milisecond
+Size: 16384000, Average: 17743.0 milisecond
+
+##########
+
+Ordered Input Results:
+----------
+Sort Algorithm 4, Time: 11560 milisecond
+Sort Algorithm 4, Time: 11274 milisecond
+Sort Algorithm 4, Time: 11279 milisecond
+Sort Algorithm 4, Time: 11336 milisecond
+Sort Algorithm 4, Time: 11242 milisecond
+Sort Algorithm 4, Time: 11322 milisecond
+Sort Algorithm 4, Time: 11320 milisecond
+Sort Algorithm 4, Time: 11239 milisecond
+Sort Algorithm 4, Time: 11287 milisecond
+Sort Algorithm 4, Time: 11308 milisecond
+Size: 16384000, Average: 11316.0 milisecond
+
+##########
+
+Reverse Ordered Input Results:
+----------
+Sort Algorithm 4, Time: 11280 milisecond
+Sort Algorithm 4, Time: 11272 milisecond
+Sort Algorithm 4, Time: 11256 milisecond
+Sort Algorithm 4, Time: 11275 milisecond
+Sort Algorithm 4, Time: 11298 milisecond
+Sort Algorithm 4, Time: 11272 milisecond
+Sort Algorithm 4, Time: 11261 milisecond
+Sort Algorithm 4, Time: 11268 milisecond
+Sort Algorithm 4, Time: 11255 milisecond
+Sort Algorithm 4, Time: 11269 milisecond
+Size: 16384000, Average: 11270.0 milisecond
+
+##########
+
+Randomly Generated Input Results:
+----------
+Sort Algorithm 4, Time: 38576 milisecond
+Sort Algorithm 4, Time: 38234 milisecond
+Sort Algorithm 4, Time: 38148 milisecond
+Sort Algorithm 4, Time: 39175 milisecond
+Sort Algorithm 4, Time: 38151 milisecond
+Sort Algorithm 4, Time: 38018 milisecond
+Sort Algorithm 4, Time: 38455 milisecond
+Sort Algorithm 4, Time: 38366 milisecond
+Sort Algorithm 4, Time: 38042 milisecond
+Sort Algorithm 4, Time: 38190 milisecond
+Size: 32768000, Average: 38335.0 milisecond
+
+##########
+
+Ordered Input Results:
+----------
+Sort Algorithm 4, Time: 23618 milisecond
+Sort Algorithm 4, Time: 23361 milisecond
+Sort Algorithm 4, Time: 23431 milisecond
+Sort Algorithm 4, Time: 23449 milisecond
+Sort Algorithm 4, Time: 23397 milisecond
+Sort Algorithm 4, Time: 23339 milisecond
+Sort Algorithm 4, Time: 23402 milisecond
+Sort Algorithm 4, Time: 23325 milisecond
+Sort Algorithm 4, Time: 23395 milisecond
+Sort Algorithm 4, Time: 23345 milisecond
+Size: 32768000, Average: 23406.0 milisecond
+
+##########
+
+Reverse Ordered Input Results:
+----------
+Sort Algorithm 4, Time: 23350 milisecond
+Sort Algorithm 4, Time: 23365 milisecond
+Sort Algorithm 4, Time: 23426 milisecond
+Sort Algorithm 4, Time: 23332 milisecond
+Sort Algorithm 4, Time: 23326 milisecond
+Sort Algorithm 4, Time: 23375 milisecond
+Sort Algorithm 4, Time: 23345 milisecond
+Sort Algorithm 4, Time: 23353 milisecond
+Sort Algorithm 4, Time: 23344 milisecond
+Sort Algorithm 4, Time: 23363 milisecond
+Size: 32768000, Average: 23357.0 milisecond
+
+##########
+
+

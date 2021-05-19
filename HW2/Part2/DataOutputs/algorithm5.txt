@@ -1,0 +1,294 @@
+Picked up _JAVA_OPTIONS: -Xmx7000m
+Please enter the algorithms that you want to run
+Example input: 1 2 3 4 5
+5
+How many array you want to create?
+10
+What should be the size of them?
+Example input 8000 16000 32000
+8000 16000 32000 64000 128000 256000
+Randomly Generated Input Results:
+----------
+Sort Algorithm 5, Time: 373 milisecond
+Sort Algorithm 5, Time: 340 milisecond
+Sort Algorithm 5, Time: 387 milisecond
+Sort Algorithm 5, Time: 410 milisecond
+Sort Algorithm 5, Time: 400 milisecond
+Sort Algorithm 5, Time: 384 milisecond
+Sort Algorithm 5, Time: 336 milisecond
+Sort Algorithm 5, Time: 332 milisecond
+Sort Algorithm 5, Time: 359 milisecond
+Sort Algorithm 5, Time: 418 milisecond
+Size: 8000, Average: 373.0 milisecond
+
+##########
+
+Ordered Input Results:
+----------
+Sort Algorithm 5, Time: 0 milisecond
+Sort Algorithm 5, Time: 1 milisecond
+Sort Algorithm 5, Time: 0 milisecond
+Sort Algorithm 5, Time: 1 milisecond
+Sort Algorithm 5, Time: 1 milisecond
+Sort Algorithm 5, Time: 1 milisecond
+Sort Algorithm 5, Time: 0 milisecond
+Sort Algorithm 5, Time: 1 milisecond
+Sort Algorithm 5, Time: 1 milisecond
+Sort Algorithm 5, Time: 1 milisecond
+Size: 8000, Average: 0.0 milisecond
+
+##########
+
+Reverse Ordered Input Results:
+----------
+Sort Algorithm 5, Time: 346 milisecond
+Sort Algorithm 5, Time: 262 milisecond
+Sort Algorithm 5, Time: 248 milisecond
+Sort Algorithm 5, Time: 255 milisecond
+Sort Algorithm 5, Time: 271 milisecond
+Sort Algorithm 5, Time: 280 milisecond
+Sort Algorithm 5, Time: 286 milisecond
+Sort Algorithm 5, Time: 252 milisecond
+Sort Algorithm 5, Time: 251 milisecond
+Sort Algorithm 5, Time: 268 milisecond
+Size: 8000, Average: 271.0 milisecond
+
+##########
+
+Randomly Generated Input Results:
+----------
+Sort Algorithm 5, Time: 1611 milisecond
+Sort Algorithm 5, Time: 1571 milisecond
+Sort Algorithm 5, Time: 1447 milisecond
+Sort Algorithm 5, Time: 1482 milisecond
+Sort Algorithm 5, Time: 1495 milisecond
+Sort Algorithm 5, Time: 1592 milisecond
+Sort Algorithm 5, Time: 1990 milisecond
+Sort Algorithm 5, Time: 1714 milisecond
+Sort Algorithm 5, Time: 1583 milisecond
+Sort Algorithm 5, Time: 1828 milisecond
+Size: 16000, Average: 1631.0 milisecond
+
+##########
+
+Ordered Input Results:
+----------
+Sort Algorithm 5, Time: 1 milisecond
+Sort Algorithm 5, Time: 0 milisecond
+Sort Algorithm 5, Time: 0 milisecond
+Sort Algorithm 5, Time: 1 milisecond
+Sort Algorithm 5, Time: 0 milisecond
+Sort Algorithm 5, Time: 1 milisecond
+Sort Algorithm 5, Time: 0 milisecond
+Sort Algorithm 5, Time: 0 milisecond
+Sort Algorithm 5, Time: 1 milisecond
+Sort Algorithm 5, Time: 0 milisecond
+Size: 16000, Average: 0.0 milisecond
+
+##########
+
+Reverse Ordered Input Results:
+----------
+Sort Algorithm 5, Time: 1267 milisecond
+Sort Algorithm 5, Time: 1266 milisecond
+Sort Algorithm 5, Time: 1214 milisecond
+Sort Algorithm 5, Time: 1254 milisecond
+Sort Algorithm 5, Time: 1212 milisecond
+Sort Algorithm 5, Time: 1377 milisecond
+Sort Algorithm 5, Time: 1274 milisecond
+Sort Algorithm 5, Time: 1218 milisecond
+Sort Algorithm 5, Time: 1463 milisecond
+Sort Algorithm 5, Time: 1211 milisecond
+Size: 16000, Average: 1275.0 milisecond
+
+##########
+
+Randomly Generated Input Results:
+----------
+Sort Algorithm 5, Time: 7323 milisecond
+Sort Algorithm 5, Time: 7038 milisecond
+Sort Algorithm 5, Time: 7235 milisecond
+Sort Algorithm 5, Time: 8064 milisecond
+Sort Algorithm 5, Time: 6869 milisecond
+Sort Algorithm 5, Time: 6432 milisecond
+Sort Algorithm 5, Time: 6992 milisecond
+Sort Algorithm 5, Time: 7262 milisecond
+Sort Algorithm 5, Time: 6714 milisecond
+Sort Algorithm 5, Time: 7076 milisecond
+Size: 32000, Average: 7100.0 milisecond
+
+##########
+
+Ordered Input Results:
+----------
+Sort Algorithm 5, Time: 0 milisecond
+Sort Algorithm 5, Time: 1 milisecond
+Sort Algorithm 5, Time: 0 milisecond
+Sort Algorithm 5, Time: 1 milisecond
+Sort Algorithm 5, Time: 0 milisecond
+Sort Algorithm 5, Time: 1 milisecond
+Sort Algorithm 5, Time: 0 milisecond
+Sort Algorithm 5, Time: 1 milisecond
+Sort Algorithm 5, Time: 0 milisecond
+Sort Algorithm 5, Time: 0 milisecond
+Size: 32000, Average: 0.0 milisecond
+
+##########
+
+Reverse Ordered Input Results:
+----------
+Sort Algorithm 5, Time: 4765 milisecond
+Sort Algorithm 5, Time: 5639 milisecond
+Sort Algorithm 5, Time: 5296 milisecond
+Sort Algorithm 5, Time: 5023 milisecond
+Sort Algorithm 5, Time: 5760 milisecond
+Sort Algorithm 5, Time: 6510 milisecond
+Sort Algorithm 5, Time: 5853 milisecond
+Sort Algorithm 5, Time: 4862 milisecond
+Sort Algorithm 5, Time: 5205 milisecond
+Sort Algorithm 5, Time: 6208 milisecond
+Size: 32000, Average: 5512.0 milisecond
+
+##########
+
+Randomly Generated Input Results:
+----------
+Sort Algorithm 5, Time: 34883 milisecond
+Sort Algorithm 5, Time: 34655 milisecond
+Sort Algorithm 5, Time: 30779 milisecond
+Sort Algorithm 5, Time: 33626 milisecond
+Sort Algorithm 5, Time: 32170 milisecond
+Sort Algorithm 5, Time: 32376 milisecond
+Sort Algorithm 5, Time: 32730 milisecond
+Sort Algorithm 5, Time: 32541 milisecond
+Sort Algorithm 5, Time: 33865 milisecond
+Sort Algorithm 5, Time: 35960 milisecond
+Size: 64000, Average: 33358.0 milisecond
+
+##########
+
+Ordered Input Results:
+----------
+Sort Algorithm 5, Time: 1 milisecond
+Sort Algorithm 5, Time: 1 milisecond
+Sort Algorithm 5, Time: 0 milisecond
+Sort Algorithm 5, Time: 1 milisecond
+Sort Algorithm 5, Time: 1 milisecond
+Sort Algorithm 5, Time: 1 milisecond
+Sort Algorithm 5, Time: 0 milisecond
+Sort Algorithm 5, Time: 1 milisecond
+Sort Algorithm 5, Time: 1 milisecond
+Sort Algorithm 5, Time: 1 milisecond
+Size: 64000, Average: 0.0 milisecond
+
+##########
+
+Reverse Ordered Input Results:
+----------
+Sort Algorithm 5, Time: 21475 milisecond
+Sort Algorithm 5, Time: 23864 milisecond
+Sort Algorithm 5, Time: 20794 milisecond
+Sort Algorithm 5, Time: 23190 milisecond
+Sort Algorithm 5, Time: 22664 milisecond
+Sort Algorithm 5, Time: 25635 milisecond
+Sort Algorithm 5, Time: 21572 milisecond
+Sort Algorithm 5, Time: 22272 milisecond
+Sort Algorithm 5, Time: 20071 milisecond
+Sort Algorithm 5, Time: 22841 milisecond
+Size: 64000, Average: 22437.0 milisecond
+
+##########
+
+Randomly Generated Input Results:
+----------
+Sort Algorithm 5, Time: 148878 milisecond
+Sort Algorithm 5, Time: 143046 milisecond
+Sort Algorithm 5, Time: 131519 milisecond
+Sort Algorithm 5, Time: 136687 milisecond
+Sort Algorithm 5, Time: 142826 milisecond
+Sort Algorithm 5, Time: 135306 milisecond
+Sort Algorithm 5, Time: 137294 milisecond
+Sort Algorithm 5, Time: 136029 milisecond
+Sort Algorithm 5, Time: 136887 milisecond
+Sort Algorithm 5, Time: 137607 milisecond
+Size: 128000, Average: 138607.0 milisecond
+
+##########
+
+Ordered Input Results:
+----------
+Sort Algorithm 5, Time: 2 milisecond
+Sort Algorithm 5, Time: 1 milisecond
+Sort Algorithm 5, Time: 2 milisecond
+Sort Algorithm 5, Time: 2 milisecond
+Sort Algorithm 5, Time: 1 milisecond
+Sort Algorithm 5, Time: 2 milisecond
+Sort Algorithm 5, Time: 1 milisecond
+Sort Algorithm 5, Time: 2 milisecond
+Sort Algorithm 5, Time: 2 milisecond
+Sort Algorithm 5, Time: 2 milisecond
+Size: 128000, Average: 1.0 milisecond
+
+##########
+
+Reverse Ordered Input Results:
+----------
+Sort Algorithm 5, Time: 89655 milisecond
+Sort Algorithm 5, Time: 89884 milisecond
+Sort Algorithm 5, Time: 90176 milisecond
+Sort Algorithm 5, Time: 91720 milisecond
+Sort Algorithm 5, Time: 97296 milisecond
+Sort Algorithm 5, Time: 104403 milisecond
+Sort Algorithm 5, Time: 100857 milisecond
+Sort Algorithm 5, Time: 99595 milisecond
+Sort Algorithm 5, Time: 107814 milisecond
+Sort Algorithm 5, Time: 110121 milisecond
+Size: 128000, Average: 98152.0 milisecond
+
+##########
+
+Randomly Generated Input Results:
+----------
+Sort Algorithm 5, Time: 841293 milisecond
+Sort Algorithm 5, Time: 984458 milisecond
+Sort Algorithm 5, Time: 679759 milisecond
+Sort Algorithm 5, Time: 676761 milisecond
+Sort Algorithm 5, Time: 825982 milisecond
+Sort Algorithm 5, Time: 817101 milisecond
+Sort Algorithm 5, Time: 713043 milisecond
+Sort Algorithm 5, Time: 705902 milisecond
+Sort Algorithm 5, Time: 686453 milisecond
+Sort Algorithm 5, Time: 670690 milisecond
+Size: 256000, Average: 760144.0 milisecond
+
+##########
+
+Ordered Input Results:
+----------
+Sort Algorithm 5, Time: 6 milisecond
+Sort Algorithm 5, Time: 6 milisecond
+Sort Algorithm 5, Time: 25 milisecond
+Sort Algorithm 5, Time: 15 milisecond
+Sort Algorithm 5, Time: 5 milisecond
+Sort Algorithm 5, Time: 6 milisecond
+Sort Algorithm 5, Time: 6 milisecond
+Sort Algorithm 5, Time: 32 milisecond
+Sort Algorithm 5, Time: 5 milisecond
+Sort Algorithm 5, Time: 6 milisecond
+Size: 256000, Average: 11.0 milisecond
+
+##########
+
+Reverse Ordered Input Results:
+----------
+Sort Algorithm 5, Time: 868423 milisecond
+Sort Algorithm 5, Time: 876116 milisecond
+Sort Algorithm 5, Time: 878045 milisecond
+Sort Algorithm 5, Time: 871349 milisecond
+Sort Algorithm 5, Time: 868653 milisecond
+Sort Algorithm 5, Time: 856116 milisecond
+Sort Algorithm 5, Time: 877815 milisecond
+Sort Algorithm 5, Time: 863021 milisecond
+Sort Algorithm 5, Time: 874319 milisecond
+Sort Algorithm 5, Time: 878346 milisecond
+Size: 256000, Average: 871220.3 milisecond
